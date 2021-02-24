@@ -22,7 +22,6 @@ int main()
             maxN = x;
         }
     }
-    cout << maxi << " " << mini << endl;
     if (maxN == minN)
     {
         cout << 0 << endl;
