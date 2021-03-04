@@ -1,1 +1,4 @@
 **/bin
+*.json
+**/.vscode
+**/cpp/**/*.py
