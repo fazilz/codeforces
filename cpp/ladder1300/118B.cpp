@@ -15,7 +15,7 @@ int main(){
     for (int row = -n; row <= n; ++row){
         int mid = n - abs(row);
         for (int col = 0; col < abs(row); ++col){
-            cout << " ";
+            cout << "  ";
         }
         for (int col = 0; col < mid; ++col){
             cout << col << " ";
